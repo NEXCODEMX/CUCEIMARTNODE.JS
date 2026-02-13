@@ -1,0 +1,34 @@
+[
+    {
+        "id": "sanza-art",
+        "name": "SANZA ART",
+        "description": "Cuadros Personalizados Artísticos de alta calidad.",
+        "category": ["decoraciones", "regalos"],
+        "icon": "fas fa-image",
+        "price": "Desde $250 MXN",
+        "url": "https://nexcodemx.github.io/SanzaArt/SanzaArt.html",
+        "image": "img/negocio1.jpg",
+        "whatsapp": "523343408028",
+        "instagram": "https://www.instagram.com/sanza.art/",
+        "website": "https://nexcodemx.github.io/SanzaArt/SanzaArt.html",
+        "mapX": 0.78,
+        "mapY": 0.40,
+        "isFeatured": true,
+        "buildingId": "U",
+        "zoneId": "lab_ingenierias"
+    },
+    {
+        "id": "nexcode",
+        "name": "NEXCODE",
+        "description": "Plataforma de cursos en línea con variedad de temas y rutas de aprendizaje.",
+        "category": ["servicios", "tecnologia"],
+        "icon": "fas fa-laptop-code",
+        "price": "Acceso Gratuito",
+        "url": "https://nexcodemx.github.io/NEXCODE/",
+        "image": "img/Nexcode.jpg",
+        "whatsapp": "523343408028",
+        "instagram": "@NexCode_MX",
+        "website": "https://nexcodemx.github.io/NEXCODE/",
+        "isFeatured": true
+    }
+]
